@@ -1,5 +1,5 @@
 {
-    "MakeModels": {
+    "makeModels": {
         "113": [
             1127,
             1129,
@@ -84,7 +84,7 @@
             141
         ]
     },
-    "SimilarModelNames": {
+    "similarModelNames": {
         "si_three": [18, 113],
         "si_five": [18, 113]
     }
